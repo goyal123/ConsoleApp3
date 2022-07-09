@@ -1,0 +1,15 @@
+E:\BRIDGELABZ\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+E:\BRIDGELABZ\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+E:\BRIDGELABZ\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+E:\BRIDGELABZ\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+E:\BRIDGELABZ\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+E:\BRIDGELABZ\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+E:\BRIDGELABZ\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+E:\BRIDGELABZ\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+E:\BRIDGELABZ\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+E:\BRIDGELABZ\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\BRIDGELABZ\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+E:\BRIDGELABZ\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+E:\BRIDGELABZ\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+E:\BRIDGELABZ\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+E:\BRIDGELABZ\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
